@@ -22,4 +22,5 @@ This repository is organized to reflect the end-to-end product lifecycle managem
 
 ## 👨‍💻 Author
 **Malavya Gupta**<br>
-**This project is a personal case study and is not affiliated with YouTube/Google.**
+
+[**This project is a personal case study and is not affiliated with YouTube/Google.**]
